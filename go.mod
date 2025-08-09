@@ -1,4 +1,4 @@
-module container
+module github.com/recodextech/container
 
 go 1.23.2
 
